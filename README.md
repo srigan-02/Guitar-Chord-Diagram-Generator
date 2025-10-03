@@ -1,4 +1,5 @@
 🎸 Guitar Chord Diagram Generator
+
 📌 Overview
 
 This project generates guitar chord diagrams programmatically using Python + Matplotlib.
